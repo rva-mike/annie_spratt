@@ -1,0 +1,87 @@
+
+
+
+
+.landingpage{
+    height: 100vh;
+    background: url('./assets/ferns.jpg');
+        background-size: cover;
+
+    
+    
+}
+
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+
+.nav{
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding-top: 45px;
+font-size: 14px;
+
+
+}
+
+.middlenav{
+    display: flex;
+    justify-content: space-between;
+    
+    width: 33%;
+}
+
+
+.unsplash{
+    margin-left: 45px;
+    font-weight: bold;
+    font-size: 15px;
+    
+}
+
+.users{
+    padding-left: -30px;
+}
+
+.nav_icons{
+    margin-right: 45px;
+   
+
+  
+}
+
+.eyeglass{
+    height: 20px;
+}
+
+.menuicon{
+    height: 20px;
+
+}
+
+.cta{
+    display: flex;
+    justify-content: center;
+    font-size: 100px;
+    padding-top: 60px;
+    font-weight: bold;
+
+    border: dashed white 1px;
+}
+
+
+.bottom_bar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 66%;
+    background-color: grey;
+    
+    border: dashed white 1px;
+
+}
